@@ -1,0 +1,25 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+h1, h2 {
+    color: rgb(196, 76, 122);
+    text-align: center;
+    background-color: rgb(233, 231, 231);
+    font-family: sans-serif;
+    font-weight: 600;
+    line-height: 0;
+}
+
+h1 {
+    padding: 1.5em 0 1em ;
+}
+
+h2 {
+    padding: 1em 0 2em;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
+
